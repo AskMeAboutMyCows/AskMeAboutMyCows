@@ -1,8 +1,5 @@
-time
-for
-my
-daily
-github
-readme
-
+the
+time 
+is 
+now
 
